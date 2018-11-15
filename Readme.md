@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/WpfApplication1/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/WpfApplication1/MainWindow.xaml))
+* [MainWindowViewModel.cs](./CS/WpfApplication1/ViewModel/MainWindowViewModel.cs) (VB: [MainWindowViewModel.vb](./VB/WpfApplication1/ViewModel/MainWindowViewModel.vb))
+<!-- default file list end -->
 # How to provide data for a WPF Scheduler via WCF Data Service.
 
 
